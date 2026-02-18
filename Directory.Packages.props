@@ -20,6 +20,6 @@
     <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.5" />
   </ItemGroup>
   <ItemGroup>
-    <GlobalPackageReference Include="Bluehill.Imports" Version="1.0.21" />
+    <GlobalPackageReference Include="Bluehill.Imports" Version="1.0.22" />
   </ItemGroup>
 </Project>
